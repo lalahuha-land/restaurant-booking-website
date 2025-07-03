@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.batik-divider {
+  background-image: url('data:image/svg+xml;utf8,<svg width="100%25" height="40" viewBox="0 0 1200 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 20 Q300 40 600 20 T1200 20 V40 H0 V20Z" fill="%23D4AF37" fill-opacity="0.12"/><circle cx="100" cy="20" r="8" fill="%23145A32" fill-opacity="0.15"/><circle cx="1100" cy="20" r="8" fill="%23145A32" fill-opacity="0.15"/></svg>');
+  background-repeat: repeat-x;
+  background-size: auto 40px;
+  height: 40px;
+}
