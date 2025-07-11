@@ -13,7 +13,7 @@ const Header = () => {
             <div className="flex items-center space-x-8">
               <div className="flex items-center text-accent">
                 <Phone className="h-4 w-4 mr-2 text-highlight" />
-                <span className="font-medium">(555) 123-4567</span>
+                <span className="font-medium">+60 3-2141 9999</span>
               </div>
               <div className="flex items-center text-accent">
                 <Clock className="h-4 w-4 mr-2 text-highlight" />
@@ -22,7 +22,7 @@ const Header = () => {
             </div>
             <div className="flex items-center text-accent">
               <MapPin className="h-4 w-4 mr-2 text-highlight" />
-              <span>123 Gourmet Street, Culinary District</span>
+              <span>12 Jalan Bukit Bintang, 55100 Kuala Lumpur</span>
             </div>
           </div>
         </div>

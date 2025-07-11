@@ -28,7 +28,7 @@ const Contact = () => {
                     <MapPin className="h-5 w-5 md:h-6 md:w-6 text-highlight mt-1 mr-4 flex-shrink-0" />
                     <div>
                       <h4 className="font-semibold text-primary mb-1">Address</h4>
-                      <p className="text-primary/70 text-sm md:text-base">123 Gourmet Street<br />Culinary District, NY 10001</p>
+                      <p className="text-primary/70 text-sm md:text-base">12 Jalan Bukit Bintang<br />55100 Kuala Lumpur, Malaysia</p>
                     </div>
                   </div>
                   
@@ -36,7 +36,7 @@ const Contact = () => {
                     <Phone className="h-5 w-5 md:h-6 md:w-6 text-highlight mt-1 mr-4 flex-shrink-0" />
                     <div>
                       <h4 className="font-semibold text-primary mb-1">Phone</h4>
-                      <p className="text-primary/70 text-sm md:text-base">(555) 123-4567</p>
+                      <p className="text-primary/70 text-sm md:text-base">+60 3-2141 9999</p>
                     </div>
                   </div>
                   
@@ -71,7 +71,7 @@ const Contact = () => {
                     <p className="mb-2">Located in downtown's premier dining district, easily accessible by:</p>
                     <ul className="list-disc list-inside space-y-1 text-xs md:text-sm">
                       <li>Subway: 4, 5, 6 to Union Square (5 min walk)</li>
-                      <li>Parking: Valet service available ($15)</li>
+                      <li>Parking: Valet service available (RM15)</li>
                       <li>Taxi/Uber: Direct drop-off at main entrance</li>
                     </ul>
                   </div>

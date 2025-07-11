@@ -1,6 +1,6 @@
 # Bella Vista Restaurant Website
 
-A sophisticated, mobile-first restaurant booking website built with React, TypeScript, and Tailwind CSS. Features a Malaysian fine dining theme with deep emerald, royal gold, batik blue, and porcelain colors, elegant typography, and a custom batik SVG divider for cultural flair.
+A sophisticated, mobile-first restaurant booking website built with React, TypeScript, and Tailwind CSS. Now fully localized for Malaysia, featuring a Kuala Lumpur address, Malaysian phone number, and prices in RM (Malaysian Ringgit). The site includes a custom batik SVG divider, deep emerald, royal gold, batik blue, and porcelain colors, elegant typography, and a Malaysian fine dining theme.
 
 ## Features
 
@@ -8,6 +8,7 @@ A sophisticated, mobile-first restaurant booking website built with React, TypeS
 - **Modern Tech Stack**: React 18, TypeScript, Vite, Tailwind CSS
 - **Interactive Components**: Dynamic booking form, menu categories, image gallery
 - **Elegant UI**: Malaysian fine dining theme with luxurious colors, Playfair Display & Lato fonts, and batik-inspired SVG dividers
+- **Localized Details**: Malaysian address, phone number, and currency (RM)
 - **Production Ready**: Optimized performance and clean code architecture
 
 ## Design Highlights
@@ -35,8 +36,18 @@ A sophisticated, mobile-first restaurant booking website built with React, TypeS
 - **Gallery**: Image showcase with hover effects
 - **Testimonials**: Customer reviews and ratings
 - **Contact**: Location info and contact details
-- **Footer**: Site links and restaurant information
+- **Footer**: Site links and restaurant information, including:
+  - **Address**: 12 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia
+  - **Phone**: +60 3-2141 9999
+  - **Email**: reservations@bellavista.com
 - **Batik Divider**: SVG pattern for elegant section separation
+
+## Branding & Localization
+
+- **Currency**: All prices are shown in RM (Malaysian Ringgit)
+- **Address**: 12 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia
+- **Phone**: +60 3-2141 9999
+- **Favicon & Title**: Custom SVG favicon and updated site title for a unique, professional look
 
 ## Getting Started
 

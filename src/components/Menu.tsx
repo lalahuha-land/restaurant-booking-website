@@ -16,25 +16,25 @@ const Menu = () => {
       {
         name: 'Burrata di Puglia',
         description: 'Creamy burrata cheese with heirloom tomatoes, basil oil, and aged balsamic',
-        price: '$18',
+        price: 'RM18',
         dietary: 'V'
       },
       {
         name: 'Crudo di Tonno',
         description: 'Yellowfin tuna crudo with citrus, avocado, and micro herbs',
-        price: '$24',
+        price: 'RM24',
         dietary: 'GF'
       },
       {
         name: 'Antipasto della Casa',
         description: 'Selection of Italian cured meats, aged cheeses, and marinated vegetables',
-        price: '$28',
+        price: 'RM28',
         dietary: ''
       },
       {
         name: 'Arancini Siciliani',
         description: 'Saffron risotto balls stuffed with mozzarella and peas, truffle aioli',
-        price: '$16',
+        price: 'RM16',
         dietary: 'V'
       }
     ],
@@ -42,31 +42,31 @@ const Menu = () => {
       {
         name: 'Osso Buco alla Milanese',
         description: 'Braised veal shank with saffron risotto and gremolata',
-        price: '$42',
+        price: 'RM42',
         dietary: ''
       },
       {
         name: 'Branzino in Crosta',
         description: 'Mediterranean sea bass in herb crust with roasted vegetables',
-        price: '$38',
+        price: 'RM38',
         dietary: 'GF'
       },
       {
         name: 'Pasta all\'Aragosta',
         description: 'House-made pasta with Maine lobster in light tomato cream sauce',
-        price: '$45',
+        price: 'RM45',
         dietary: ''
       },
       {
         name: 'Bistecca Fiorentina',
         description: '32oz dry-aged Porterhouse steak with rosemary potatoes (for two)',
-        price: '$85',
+        price: 'RM85',
         dietary: 'GF'
       },
       {
         name: 'Risotto ai Porcini',
         description: 'Carnaroli rice with wild porcini mushrooms and Parmigiano-Reggiano',
-        price: '$32',
+        price: 'RM32',
         dietary: 'V, GF'
       }
     ],
@@ -74,25 +74,25 @@ const Menu = () => {
       {
         name: 'Tiramisu della Casa',
         description: 'Classic tiramisu with espresso-soaked ladyfingers and mascarpone',
-        price: '$14',
+        price: 'RM14',
         dietary: 'V'
       },
       {
         name: 'Cannoli Siciliani',
         description: 'Crispy shells filled with sweet ricotta and chocolate chips',
-        price: '$12',
+        price: 'RM12',
         dietary: 'V'
       },
       {
         name: 'Panna Cotta ai Frutti di Bosco',
         description: 'Vanilla panna cotta with mixed berry compote',
-        price: '$13',
+        price: 'RM13',
         dietary: 'V, GF'
       },
       {
         name: 'Gelato Artigianale',
         description: 'Daily selection of house-made gelato and sorbetto',
-        price: '$8',
+        price: 'RM8',
         dietary: 'V'
       }
     ],
@@ -100,25 +100,25 @@ const Menu = () => {
       {
         name: 'Barolo DOCG 2019',
         description: 'Piedmont - Full-bodied with notes of cherry and truffle',
-        price: '$28/glass',
+        price: 'RM28/glass',
         dietary: ''
       },
       {
         name: 'Pinot Grigio Alto Adige 2022',
         description: 'Crisp and mineral with citrus and white flower notes',
-        price: '$14/glass',
+        price: 'RM14/glass',
         dietary: ''
       },
       {
         name: 'Chianti Classico Riserva 2020',
         description: 'Tuscany - Elegant with cherry, leather, and herb complexity',
-        price: '$22/glass',
+        price: 'RM22/glass',
         dietary: ''
       },
       {
         name: 'Prosecco di Valdobbiadene DOCG',
         description: 'Delicate bubbles with apple and pear notes',
-        price: '$16/glass',
+        price: 'RM16/glass',
         dietary: ''
       }
     ]
